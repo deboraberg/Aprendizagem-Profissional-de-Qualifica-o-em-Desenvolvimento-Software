@@ -1,0 +1,23 @@
+/*Aplicando permissões*/
+grant insert,update,delete
+on `bd_caso_estudo_vendas`.`tb_func`
+to danielgomes@localhost;
+
+revoke insert, update
+on `bd_caso_estudo-vendas`.`tb_func`
+from danielgomes@localhost;
+
+grant delete
+on `bd_caso_estudo-vendas`.`tb_func`
+to danielgomes@localhost;
+
+revoke select 
+on `bd_caso_estudo-vendas`.`tb_func`
+from danielgomes@localhost;
+
+grant insert
+on `bd_caso_estudo-vendas`.`tb_func`
+to danielgomes@localhost;
+
+
+
