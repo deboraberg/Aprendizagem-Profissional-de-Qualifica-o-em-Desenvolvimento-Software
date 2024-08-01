@@ -1,0 +1,54 @@
+/*Alterando registros em uma tabela*/
+
+updat `bd_caso_estudo_vendaas`.`tb_cli`
+set cli_cpf '020202220'
+where cli_cod =1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
