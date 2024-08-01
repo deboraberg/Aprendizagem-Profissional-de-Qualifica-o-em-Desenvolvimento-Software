@@ -4,11 +4,16 @@ updat `bd_caso_estudo_vendaas`.`tb_cli`
 set cli_cpf '020202220'
 where cli_cod =1;
 
+/*Consultando registros selecionando colunas*/
+select
+cli_cod,
+cli_nome,
+cli_cpf
+from tb_cli;
 
-
-
-
-
+select * from tb_func 
+  inner join tb_depto
+    on depto_cod = func_depto;
 
 
 
