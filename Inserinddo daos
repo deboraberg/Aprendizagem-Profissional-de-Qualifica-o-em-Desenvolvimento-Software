@@ -1,0 +1,29 @@
+/**/
+insert into `bd_caso_estudo_vendas`.`tb_cli`
+(``cli_cod`,`cli_nome`,`cli_cpf`,`cli_end_rua`,`cli_end_num`,`cli_end_bairro`,`cli_end_bairro`,`cli_end_cep`) 
+values
+(`o1`,`Hudson Neves`,`Ruadas Acacias`,`100p`,`Centro`,`08000000`,`12345678910`),
+( `02`,`Izabella Oliveira`,`Rua das Neves`,`04`,`Sul`,`01083798`,` 0655559887-1`),
+(`03`,` Emanoele Candido`,`rua morro azul `,`residencial oeste`,`72540276`,`10987654321`),
+(`04`,`Yan Fillipy `,`-Rua da água `,`3`,`Aguas escura `,`72000000`,`055221453-5`),
+(`05`,`Samuel Sales Oliveira`,`Rua do sol`,`4`,`Aguas Mornas`,`72000100`,`-011221411-0`),
+(`06`,`Luane Gabrielly`,`Rua das Araras`,`21`,`Residencial Vila Boa`,`98765444`,`98765432103`),
+(`07`,` Emilly Gabrielly`,`Rua do fogo`,`7`,`samambaia norte`,`72000333`,`2300378241-5`),
+(`08`,`Nicolas Rabelo`,`Rua Ypiranga`,`6`,`Riacho Fundo`,`717700102`,`03651035190`),
+(`09`,`Yasmin lenny `,`rua capão`,`22`,`cerrado`,`88090000`,`93396628351`),
+(`10`,`Beatriz Gomes`,` rua da Teresa`,`51`,`Águas frias`,` 7196253`,`0707885515-6`),
+(`11`,`Luciel Carvalho Aguiar`,`Rua maranhão  `,`12`,`setor de chácaras anhanquera c`,`72871667`,`71174239190`),
+(`12`,`Rikelmy Zuza`,`Rua Ypiranga`,`6`,` Riacho Fundo`,` 717700102`,`03651035197`),
+(`13`,`Nathan Gonçalves `,`rua São Gabriel `,`4`,`jardim vila `,`82000`,`01130568212`),
+(`14`,`Maria Beatriz `,`rua das pedras`,`17`,`Gama`,`71880683`,`07608801760`),
+(`15`,`Debora`,`rua da saudade`,`8`,`norte`,`7223890`,`889900221`),
+(`16`,`Ingrid`,`jardim`,`12`,`norte`,`90950023`,`04450280820`),
+(`17`,`Maria victoria`,`rua do fuzuê`,`50`,`Planaltina `,`20009698`,`08036083069`),
+(`18`,`Daniel Gomes`,`Gomes Passos`,`16`,` Norte`,`72245612`,`05759582172`),
+(`19`,`Bruno Felipe`,`rua fortaleza`,`40`,`Valparaiso `,`7254540`,`03599213286`),
+(`20`,`Pedro Alves`,` rua da pedra`,`33`,`cei norte `,`7254540`,` 99999999999`),
+(`21`,` Lara Rodrigues `,`Rua das flores`,`09`,`águas lindas `,`72610202`,`08670062181`),
+(`22`,`Nathan de Aguiar (Jimmy)`,`Rua 3 `,` 03`,`SHVP`,`7250048`,`74589669845`);
+
+
+
