@@ -1,4 +1,9 @@
 /*Inserindo registos nas tabelas*/
+
+SET FOREIGN_KEY_CHECKS=0;
+INSERT INTO Contratos (id_cliente, id_veiculo, data_inicio, data_fim, valor_total) VALUES
+(1, 1, '2024-07-01', '2024-07-10', 500.00);
+
 INSERT INTO Marcas (nome) VALUES 
 ('Toyota'), 
 ('Honda'), 
